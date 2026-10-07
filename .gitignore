@@ -1,0 +1,4 @@
+data/*
+!data/.gitignore
+php-isp-config.ini
+servidor.log
